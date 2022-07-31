@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.container {
+    position: relative;
+}
+
 .wheel {
     border: 2px solid black;
     border-radius: 50%;
